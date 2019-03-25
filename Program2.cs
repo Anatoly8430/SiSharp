@@ -5,7 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Task_2
-{
+{/// <summary>
+/// Афанасьев. Задача 2. Условия:  Написать метод подсчета количества цифр числа.
+/// </summary>
     class Program
     {
         static void Main(string[] args)
